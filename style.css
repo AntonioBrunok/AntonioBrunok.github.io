@@ -580,7 +580,32 @@ nav.mobile-b a{
 
 	.banner-frase p{
 		font-size: 1.8rem;
-	}
+    }
+    
+    .somos img{
+        width: 100%;
+        max-width: 500px;
+        height: 100%;
+        max-height: 300px;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    
+    .quem p{
+        max-width: 350px;
+        margin: 0 auto;
+        font-size: 16px;
+        font-family: 'Merriweather', serif;
+        text-align: justify;
+    }
+    
+    .somos h1{
+        font-size: 32px;
+        margin-bottom: 40px;
+        margin-left: 80px;
+        font-family: 'Allura', cursive;
+        color:#249faf;
+    }
 
 }
 
